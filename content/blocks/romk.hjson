@@ -1,0 +1,27 @@
+type: DoubleTurret
+name: romk
+description: what a nonsense turret
+health: -1
+size: 1
+reload: 0
+range: 100
+ammoUseEffect: shellEjectSmall
+inaccuracy: 360
+rotatespeed: 9999
+ammo: {
+  silver: {
+    speed: 3
+    damage: 1
+    bulletWidth: 1
+    bulletHeight: 1
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 10
+  }
+}
+requirements: [
+  silver/-1
+  copper/-1
+]
+category: turret
+research: duo
