@@ -1,0 +1,6 @@
+name: "testio"
+displayName: "testio" //what displays in the mod selection menu
+author: "h"
+description: "h"
+version: "3.2"
+minGameVersion: "103"

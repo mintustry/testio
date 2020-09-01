@@ -1,0 +1,10 @@
+name: reinforce waLl
+description: h
+type: Wall
+health: 6535
+size: 2
+requirements: [
+  silver/40
+]
+category: defense
+research: surge-wall
