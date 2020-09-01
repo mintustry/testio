@@ -1,7 +1,7 @@
 name: W A L L
 description: W A L L
 type: Wall
-health: 1252502502520
+health: 1252502502
 size: 8
 requirements: [
   silver/-0.1
