@@ -1,0 +1,10 @@
+name: W A L L
+description: W A L L
+type: Wall
+health: infinity
+size: 10
+requirements: [
+  silver/-0.1
+]
+category: defense
+research: copper-wall
