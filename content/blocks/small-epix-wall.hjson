@@ -2,7 +2,7 @@ name: small epix wall
 description: epix
 type: Wall
 health: 3285
-size: 2
+size: 1
 requirements: [
   epic-compound/6
 ]
