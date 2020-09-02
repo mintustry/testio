@@ -3,7 +3,7 @@ description: N/A
 type: Drill
 size: 1
 tier: 100
-drillTime: 1
+drillTime: 0
 consumes: {
   liquid: {
     liquid: water
