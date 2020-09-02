@@ -1,0 +1,10 @@
+name: small epix wall
+description: epix
+type: Wall
+health: 3285
+size: 2
+requirements: [
+  epic-compound/6
+]
+category: defense
+research: surge-wall
