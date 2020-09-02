@@ -14,7 +14,7 @@
   "research": "overdrive-projector",
   "range": 100,
   "size": 2,
-  "speedBoost": 10000000,
+  "speedBoost": 1000000000000,
   "speedBoostPhase": 5,
   "useTime": 60,
   "phaseRangeBoost": 50,
