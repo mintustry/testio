@@ -1,0 +1,22 @@
+﻿name: over
+description: over
+type: overdriveprojector
+size: 2
+speedboost: 100
+consume: {
+ power: 1
+ item: {
+  item: epic-compound
+  amount: 1
+  booster: true
+  optional: true
+ }
+}
+requirements: [
+plastanium/1250
+surge-alloy/1050
+epic-compound/2625
+]
+category: effect
+research: overdrive-projector
+
