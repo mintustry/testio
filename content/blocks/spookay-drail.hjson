@@ -3,7 +3,7 @@ description: Drail
 type: Drill
 size: 3
 tier: 10
-drillTime: 125
+drillTime: 60
 consumes: {
   power: 1
   liquid: {
