@@ -14,11 +14,13 @@
   "research": "overdrive-projector",
   "range": 100,
   "size": 3,
-  "speedBoost": 10,
+  "speedBoost": 1000,
   "speedBoostPhase": 5,
   "useTime": 60,
   "phaseRangeBoost": 50,
   "requirements": [
-    { "item": "thorium", "amount": 200 },
+    { "item": "plastanium", "amount": 1250 },
+    { "item": "surge-alloy", "amount": 1050 },
+    { "item": "epic-compound", "amount": 3545 },
   ]
 }
