@@ -7,9 +7,10 @@ drillTime: 60
 consumes: {
   power: 1
   liquid: {
-    liquid: molten-silver
+    liquid: water
     amount: 0.1
     booster: true
+    optional: true
   }
 }
 requirements: [
