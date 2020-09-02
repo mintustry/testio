@@ -12,8 +12,8 @@ ammo: {
   silver: {
     speed: 3
     damage: 1
-    bulletWidth: 1
-    bulletHeight: 1
+    bulletWidth: 10
+    bulletHeight: 10
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
     ammoMultiplier: 10
