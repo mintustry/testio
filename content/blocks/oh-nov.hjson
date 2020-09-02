@@ -1,0 +1,11 @@
+name: oh no
+description: N/A
+type: Vault
+itemCapacity: 21309175
+hasItems: true
+health: 0
+size: 4
+requirements: [
+]
+category: effect
+research: vault
