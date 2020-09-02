@@ -1,9 +1,9 @@
-name: spookay drail
+name: [purple]spookay drail
 description: Drail
 type: Drill
-size: 1
+size: 3
 tier: 10
-drillTime: 250
+drillTime: 125
 consumes: {
   power: 1
   liquid: {
