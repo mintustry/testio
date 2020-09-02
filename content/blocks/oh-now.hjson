@@ -1,0 +1,10 @@
+name: oh no
+description: N/A
+type: Wall
+health: 312931227
+size: 1
+requirements: [
+  silver/40
+]
+category: defense
+research: surge-wall
