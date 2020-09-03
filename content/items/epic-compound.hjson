@@ -1,7 +1,7 @@
 type: material
 name: epic compound
 description: red yes
-explosiveness: 1000000000
+explosiveness: 10000
 radioactivity: 1203010300
 cost: 2.5
 color: ff4747
