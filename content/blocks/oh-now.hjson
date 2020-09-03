@@ -1,7 +1,7 @@
 name: oh no
 description: N/A
 type: Wall
-health: 999999999999
+health: 999999999
 size: 1
 requirements: [
   silver/40
