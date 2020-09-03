@@ -1,7 +1,8 @@
 type: material
 name: epic compound
 description: red yes
-explosiveness: 1000
-radioactivity: 12030103
+explosiveness: 1000000000
+radioactivity: 1203010300
+flammability: 100000000
 cost: 2.5
 color: dcd16b
