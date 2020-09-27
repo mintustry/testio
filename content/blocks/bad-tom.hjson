@@ -9,7 +9,7 @@ ammoUseEffect: padlaunch
 inaccuracy: 0
 rotatespeed: 6
 ammo: {
-  water: {
+  epic-compound: {
     speed: 3
     damage: 100000000000
     bulletWidth: 7
