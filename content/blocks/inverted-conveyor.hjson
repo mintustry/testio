@@ -8,5 +8,5 @@ requirements: [
   electrum/3
 ]
 category: distribution
-speed: -0.1
+speed: 1
 research: titanium-conveyor
