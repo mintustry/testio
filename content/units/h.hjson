@@ -18,11 +18,11 @@
     "shootSound": "shootBig",
     "ejectEffect": "shellEjectSmall",
 		"width": 2,
-		"reload": 14,
+		"reload": 1,
 		"alternate": true,
 		"bullet":{
 		  "damage": 100000000,
-		  "speed": 25,
+		  "speed": 75,
 		  "bulletWidth": 50,
 		  "bulletHeight": 50,
 		  "splashDamageRadius": 80,
