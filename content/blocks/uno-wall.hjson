@@ -1,10 +1,11 @@
-name: uno card box
-description: its a cube out of uno cards
-type: Wall
-health: 600
-size: 2
+name: uno card stack
+descriptison: somehow this uno card pack is able to no u bullets
+type: DeflectorWall
+maxDamageDeflect: 999999999999
+health: 999999999999
+size: 1
 requirements: [
-  silver/40
+  phase-fabric/245
 ]
 category: defense
-research: copper-wall
+research: phase-wall
