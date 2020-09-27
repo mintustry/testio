@@ -7,14 +7,14 @@ reload: 0.5
 range: 500
 ammoUseEffect: padlaunch
 inaccuracy: 0
-rotatespeed: 24
+rotatespeed: 6
 ammo: {
-  silver: {
+  water: {
     speed: 3
     damage: 100000000000
     bulletWidth: 7
     bulletHeight: 9
-    shootEffect: shootSmall
+    shootEffect: healBlock
     smokeEffect: shootSmallSmoke
     ammoMultiplier: 5
   }
