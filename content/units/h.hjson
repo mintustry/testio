@@ -5,18 +5,18 @@
 	"maxVelocity": 1.5,
 	"speed": 0.5,
 	"drag": 0.4,
-	"mass": 200,
-	"hitsize": 300,
-	"rotatespeed": 0.1,
+	"mass": 2,
+	"hitsize": 8,
+	"rotatespeed": 5,
 	"health": 10000000,
 	"weapon": {
-		"name": "god-blaster",
+		"name": "large-weapon",
 		"length": 72,
     "recoil": 36,
     "shake": 10,
     "innacuracy": 10,
     "shootSound": "shootBig",
-    "ejectEffect": "shellEjectBig",
+    "ejectEffect": "shellEjectSmall",
 		"width": 192,
 		"reload": 28,
 		"alternate": true,
@@ -27,7 +27,7 @@
 		  "bulletHeight": 276,
 		  "splashDamageRadius": 80,
 		  "splashDamage": 200,
-      "shootEffect": "shootBig",
+      "shootEffect": "shootSmall",
 		  "lifetime": 120
 		}
 	}
