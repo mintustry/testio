@@ -1,5 +1,5 @@
 name: uno card stack
-descriptison: somehow this uno card pack is able to no u bullets
+description: somehow this uno card pack is able to no u bullets
 type: DeflectorWall
 maxDamageDeflect: 123456789
 health: 123456789
