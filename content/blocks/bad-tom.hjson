@@ -11,7 +11,7 @@ rotatespeed: 6
 ammo: {
   epic-compound: {
     speed: 15
-    damage: 100e+100
+    damage: 100e+500
     bulletWidth: 7
     bulletHeight: 9
     shootEffect: healBlock
