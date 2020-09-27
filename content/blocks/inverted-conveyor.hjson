@@ -1,0 +1,12 @@
+type: Conveyor
+name: inverted conveyor
+description: ? ? ?
+requirements: [
+  titanium/3
+  copper/3
+  lead/3
+  electrum/3
+]
+category: distribution
+speed: -1
+research: titanium-conveyor
