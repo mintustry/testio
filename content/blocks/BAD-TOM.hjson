@@ -1,0 +1,26 @@
+type: DoubleTurret
+name: [red]BAD TOM
+description: [red]DOO YU WANTY BED TOM
+health: 10000000000
+size: 2
+reload: 0.5
+range: 500
+ammoUseEffect: padlaunch
+inaccuracy: 0
+rotatespeed: 24
+ammo: {
+  silver: {
+    speed: 3
+    damage: 100000000000
+    bulletWidth: 7
+    bulletHeight: 9
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 5
+  }
+}
+requirements: [
+  epic-compound/69420
+]
+category: turret
+research: duo
