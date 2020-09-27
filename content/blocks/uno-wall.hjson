@@ -2,7 +2,7 @@ name: uno card stack
 description: somehow this uno card pack is able to no u bullets
 type: DeflectorWall
 maxDamageDeflect: 123456789
-health: 100000000000
+health: 100000000000000
 size: 1
 requirements: [
   phase-fabric/245
