@@ -4,8 +4,8 @@ description: .
 size: 2
 hasPower: true
 hasItems: true
-itemDuration: 1e+100000
-powerProduction: 1e+1000
+itemDuration: 1e+10000000
+powerProduction: 1e+1000000
 consumes: {
   items: {
     items: [
