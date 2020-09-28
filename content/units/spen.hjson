@@ -1,14 +1,14 @@
 type: flyingUnit
 name: spen
 description: it is speed
-speed: 500
+speed: 5000
 flying: true
 health: 1
 engineOffset: 5.5
 range: 320
 weapon: {
   name: blastor
-  length: 50
+  length: 250
   reload: 0
   alternate: true
   bullet: lightning
