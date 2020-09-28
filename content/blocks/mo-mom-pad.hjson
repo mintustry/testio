@@ -1,0 +1,14 @@
+name: mo mon
+description: mo mom No
+type: MechPad
+mech: mo-mom
+size: 2
+category: upgrade
+research: wraith-factory
+requirements: [
+  silver/70
+  electrum/40
+  silicon/40
+  graphite/50
+  epic-compound/69
+]
