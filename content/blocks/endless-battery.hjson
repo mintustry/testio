@@ -1,6 +1,6 @@
 type: Battery
 name: e
-description: its endless
+description: oh no
 size: 1
 hasPower: true
 consumes: {
