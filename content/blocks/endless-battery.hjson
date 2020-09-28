@@ -1,0 +1,15 @@
+type: Battery
+name: e
+description: its endless
+size: 1
+hasPower: true
+consumes: {
+  powerBuffered: 100e+100000000
+}
+requirements: [
+  titanium/80000
+  silicon/18000
+  surge-alloy/5000
+]
+category: power
+research: battery
