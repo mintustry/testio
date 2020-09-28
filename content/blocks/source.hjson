@@ -15,15 +15,15 @@ category: crafting
 idleSound: respawning
 idleSoundVolume: 0.5
 results: [
-    copper/1
-    lead/1
-    graphite/1
-    metaglass/1
-    titanium/1
-    silicon/1
-    thorium/1
-    plastanium/1
-    phase-fabric/1
-    surge-alloy/1
+    copper/100
+    lead/100
+    graphite/100
+    metaglass/100
+    titanium/100
+    silicon/100
+    thorium/100
+    plastanium/100
+    phase-fabric/100
+    surge-alloy/100
 ]
 research: mechanical-drill
