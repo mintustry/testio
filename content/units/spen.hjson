@@ -8,7 +8,7 @@ engineOffset: 5.5
 range: 320
 weapon: {
   name: blastor
-  length: 250
+  length: 1.5
   reload: 0
   alternate: true
   bullet: lightning
