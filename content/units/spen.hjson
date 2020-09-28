@@ -1,7 +1,7 @@
 type: flyingUnit
 name: spen
 description: it is speed
-speed: 10
+speed: 25
 flying: true
 health: 1
 engineOffset: 5.5
@@ -9,7 +9,7 @@ range: 160
 weapon: {
   name: blastor
   length: 1.5
-  reload: 10
+  reload: 50
   alternate: true
   bullet: pyraFlame
 }
