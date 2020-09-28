@@ -1,0 +1,14 @@
+type: SingleTypeGenerator
+name: .
+description: .
+size: 2
+hasPower: true
+hasItems: false
+powerProduction: 10e+1000
+requirements: [
+  metaglass/9e+100
+  silicon/60
+  electrum/50
+]
+category: power
+research: silver-crucible
