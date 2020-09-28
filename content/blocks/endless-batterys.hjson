@@ -4,7 +4,7 @@ description: its endless
 size: 1
 hasPower: true
 consumes: {
-  powerBuffered: 100e+15
+  powerBuffered: 100e+20
 }
 requirements: [
   titanium/80000
