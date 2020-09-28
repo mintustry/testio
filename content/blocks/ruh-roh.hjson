@@ -1,0 +1,23 @@
+type: SingleTypeGenerator
+name: .
+description: .
+size: 2
+hasPower: true
+hasItems: true
+itemDuration: 1e+100
+powerProduction: 1e+1000
+consumes: {
+  items: {
+    items: [
+      gold-powder/1
+    ]
+    optional: true
+  }
+}
+requirements: [
+  metaglass/80e+100
+  silicon/60
+  electrum/50
+]
+category: power
+research: silver-crucible
