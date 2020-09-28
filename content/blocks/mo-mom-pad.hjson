@@ -1,7 +1,7 @@
 name: mo mon
 description: mo mom No
 type: MechPad
-mech: mo-mom-mech
+mech: mo-mom
 size: 2
 category: upgrade
 research: wraith-factory
