@@ -1,0 +1,10 @@
+name: omega router
+description: router but omega
+type: router
+health: 200000
+size: 3
+requirements: [
+  epic-compound/100
+]
+category: distribution
+research: router
