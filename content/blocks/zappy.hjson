@@ -1,0 +1,13 @@
+name: epic wall
+description: because yes
+type: Wall
+health: 12535
+size: 2
+lightningchance: 0.05
+lightningDamage: 15 
+lightningLength: 17
+requirements: [
+  epic-compound/24
+]
+category: defense
+research: surge-wall
