@@ -1,6 +1,6 @@
-name: epic wall
+name: no
 description: surge
-type: surgewall
+type: SurgeWall
 lightningchance: 0.9
 lightningDamage: 15 
 lightningLength: 17
