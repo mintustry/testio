@@ -12,5 +12,8 @@ weapon: {
   length: 1.5
   reload: 0
   alternate: false
-  bullet: misslebullettype
+  bullet: { 
+    type: misslebullettype
+    damage: 10
+    }
 }
