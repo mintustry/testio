@@ -1,7 +1,7 @@
 name: epic wall
 description: because yes
 type: Wallsurge
-lightningchance: 0
+lightningchance: 0.9
 lightningDamage: 15 
 lightningLength: 17
 health: 12535
