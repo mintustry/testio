@@ -1,7 +1,7 @@
 type: SurgeWall
-lightningChance: 0.1
-lightningDamage: 21
-lightningLenght:20
+lightningChance: 0.22
+lightningDamage: 0
+lightningLenght: 200
 health: 8280
 size: 3
 requirements: [
