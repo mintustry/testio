@@ -1,5 +1,5 @@
 type: SurgeWall
-lightningChance: 0.0
+lightningChance: 0.1
 lightningDamage: 21
 lightningLenght:20
 health: 8280
