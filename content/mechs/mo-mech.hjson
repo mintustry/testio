@@ -13,7 +13,7 @@ weapon: {
   reload: 0
   alternate: false
   bullet: { 
-    type: misslebullettype
+    type: MissileBulletType
     damage: 10
     }
 }
