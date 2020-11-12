@@ -9,7 +9,7 @@ health: 100e+100
 weaponOffsetX: 4
 weapon: {
   name: chrome-blaster
-  length: 15
+  length: 1.5
   reload: 0
   alternate: false
   bullet: lightning
