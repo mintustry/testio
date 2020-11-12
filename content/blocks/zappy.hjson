@@ -1,13 +1,11 @@
-name: no
-description: surge
 type: SurgeWall
-lightningchance: 0.9
-lightningDamage: 15 
-lightningLength: 17
-health: 12535
-size: 2
+lightningChance: 0.22
+lightningDamage: 21
+lightningLenght:20
+health: 8280
+size: 3
 requirements: [
-  epic-compound/24
+   surge-alloy/125
 ]
 category: defense
-research: surge-wall
+research: surge-wall-large
