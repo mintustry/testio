@@ -1,7 +1,8 @@
-{
+{ 
+  "name": unlimited power 
   "type": "OverdriveProjector",
   "consumes": {
-    "power": 40.0,
+    "power": 0,
         "items": {
     "items": [
         {"item": "epic-compound", "amount": 1},
