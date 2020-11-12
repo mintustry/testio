@@ -1,7 +1,7 @@
 name: epic wall
 description: because yes
 type: Wall
-lightningchance: 1
+lightningchance: 0
 lightningDamage: 15 
 lightningLength: 17
 health: 12535
