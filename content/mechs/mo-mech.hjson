@@ -12,5 +12,5 @@ weapon: {
   length: 1.5
   reload: 0
   alternate: false
-  bullet: lightning
+  bullet: very-rod
 }
