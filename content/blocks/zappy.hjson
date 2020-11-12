@@ -1,7 +1,7 @@
 type: wall
-lightningChance: 0.9
+lightningChance: 0
 lightningDamage: 0
-lightningLenght: 200
+lightningLenght: 2000
 health: 8280
 size: 3
 requirements: [
