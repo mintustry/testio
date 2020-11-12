@@ -1,4 +1,4 @@
-type: SurgeWall
+type: wall
 lightningChance: 0.9
 lightningDamage: 0
 lightningLenght: 200
