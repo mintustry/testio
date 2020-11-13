@@ -4,9 +4,4 @@ ammo: {
     type: MissileBulletType
     damage: 1313123123
   }
-
-  surge-alloy: {
-    type: LiquidBulletType
-    damage: 3
-  }
 }
