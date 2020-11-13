@@ -1,0 +1,21 @@
+type: ItemTurret
+name: dart o ton
+description: a dart
+health: 200
+size: 2
+reload: 0.5
+range: 200
+ammoUseEffect: shellEjectSmall
+inaccuracy: 30
+rotatespeed: 123131233
+ammo: {
+  epic-compound: {
+    type: missilebullettype
+    damage: 10
+  }
+}
+requirements: [
+  copper/1000
+]
+category: turret
+research: spectre
