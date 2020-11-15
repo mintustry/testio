@@ -7,7 +7,6 @@ reload: 4
 range: 100
 ammoUseEffect: shellEjectSmall
 inaccuracy: 30
-rotatespeed: 12
 rotatespeed: 123131233
 ammo: {
   metaglass: {
